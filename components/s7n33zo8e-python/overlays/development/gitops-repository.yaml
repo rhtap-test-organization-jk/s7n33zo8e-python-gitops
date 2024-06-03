@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: s7n33zo8e-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/s7n33zo8e-python-gitops
